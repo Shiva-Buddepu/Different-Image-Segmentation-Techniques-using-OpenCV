@@ -19,7 +19,7 @@ The implementation is done using **OpenCV**, **NumPy**, and **Matplotlib** in Ju
 
 ---
 
-## 🧠 Techniques Implemented
+##  Techniques Implemented
 
 ### 1️⃣ Edge-Based Segmentation
 
@@ -52,7 +52,7 @@ These methods segment images based on similarity in pixel intensity or region co
 
 ---
 
-## 📊 Workflow
+##  Workflow
 
 1. Load Image
 2. Convert to Grayscale
